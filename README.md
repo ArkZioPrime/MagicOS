@@ -1,1 +1,1 @@
-# MagicUI
+# MagicOS
